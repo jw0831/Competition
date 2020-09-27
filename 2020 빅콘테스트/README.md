@@ -35,3 +35,8 @@
 - [Adobe 색상 추출](https://color.adobe.com/ko/create/color-wheel)
 - 주황색 계열 사용 (nsmall.com)
 
+
+
+# 참고
+
+[대학생에게 홈쇼핑 데이터를 주면 매출을 예측할 수 있을까? SAS 분석 챔피언십 ① 동국대 팀](https://byline.network/2019/11/08-21/)
